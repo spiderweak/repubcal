@@ -1,9 +1,11 @@
-# repubcal
-Python module to convert to French Republican Calendar
-
+# repubcal_js
+Created from https://github.com/Nimlar/repubcal (Python module to convert to French Republican Calendar)
 
 Algorithm source from https://www.fourmilab.ch/documents/calendar/calendar.js
 by [John Walker](https://en.wikipedia.org/wiki/John_Walker_(programmer))
+
+Aims to be used as a javascript lib to provide republican calendar day to a discord server
+
 
 ## Usage from command line:
 
